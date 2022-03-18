@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlsbyington
 - 👀 I’m interested in ...machine learning, algorithms, predictive analytics
 - 🌱 I’m currently learning ...Python, Jupyter Notebook
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...connect on https://www.linkedin.com/in/carl-byington-6109119/
 - 📫 How to reach me ...https://linktr.ee/carlbyington
 
 <!---
